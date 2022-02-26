@@ -1,0 +1,19 @@
+{
+  "name": "emoji-password-generator",
+  "version": "1.0.0",
+  "description": "gerador de senha em emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jsdom": "^19.0.0"
+  }
+}
